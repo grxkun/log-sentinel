@@ -1,0 +1,1 @@
+/workspaces/log-sentinel/target/debug/liblog_sentinel.rlib: /workspaces/log-sentinel/src/config.rs /workspaces/log-sentinel/src/creator.rs /workspaces/log-sentinel/src/db.rs /workspaces/log-sentinel/src/lib.rs /workspaces/log-sentinel/src/verification.rs
